@@ -1,5 +1,3 @@
-# 2k25.github.io
-
 <!DOCTYPE html>
 <html lang="en">
    <head>
@@ -47,13 +45,13 @@
                      <a class="nav-link" href="index.html">Home</a>
                   </li>
                   <li class="nav-item">
-                     <a class="nav-link" href="about.html">About</a>
+                     <a class="nav-link" href="about.html">Clients</a>
                   </li>
                   <li class="nav-item">
-                     <a class="nav-link" href="game.html">Game</a>
+                     <a class="nav-link" href="game.html">Careers</a>
                   </li>
                   <li class="nav-item">
-                     <a class="nav-link" href="client.html">Client</a>
+                     <a class="nav-link" href="client.html">About us</a>
                   </li>
                   <li class="nav-item">
                      <a class="nav-link" href="contact.html">Contact Us</a>
@@ -78,7 +76,15 @@
                      <div class="carousel-item active">
                         <div class="container">
                            <h4 class="banner_taital">Welcome to</h4>
-                           <h1 class="banner_taital_1">C a s i n o</h1>
+                           <h1 class="banner_taital_1">Weak Security</h1>
+                           <p class="banner_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum</p>
+                           <div class="book_bt"><a href="#">Call Now</a></div>
+                        </div>
+                     </div>
+                     <div class="carousel-item">
+                        <div class="container">
+                           <h4 class="banner_taital">Welcome to</h4>
+                           <h1 class="banner_taital_1">Weak Security</h1>
                            <p class="banner_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum</p>
                            <div class="book_bt"><a href="#">Book Now</a></div>
                         </div>
@@ -86,7 +92,7 @@
                      <div class="carousel-item">
                         <div class="container">
                            <h4 class="banner_taital">Welcome to</h4>
-                           <h1 class="banner_taital_1">C a s i n o</h1>
+                           <h1 class="banner_taital_1">Weak Security</h1>
                            <p class="banner_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum</p>
                            <div class="book_bt"><a href="#">Book Now</a></div>
                         </div>
@@ -94,15 +100,7 @@
                      <div class="carousel-item">
                         <div class="container">
                            <h4 class="banner_taital">Welcome to</h4>
-                           <h1 class="banner_taital_1">C a s i n o</h1>
-                           <p class="banner_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum</p>
-                           <div class="book_bt"><a href="#">Book Now</a></div>
-                        </div>
-                     </div>
-                     <div class="carousel-item">
-                        <div class="container">
-                           <h4 class="banner_taital">Welcome to</h4>
-                           <h1 class="banner_taital_1">C a s i n o</h1>
+                           <h1 class="banner_taital_1">Weak Security</h1>
                            <p class="banner_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum</p>
                            <div class="book_bt"><a href="#">Book Now</a></div>
                         </div>
@@ -119,7 +117,7 @@
          <div class="container">
             <div class="row">
                <div class="col-md-6">
-                  <h1 class="about_taital"><img src="images/icon-1.png"> <span>About our casino</span></h1>
+                  <h1 class="about_taital"><img src="images/icon-1.png"> <span>About our Company</span></h1>
                   <p class="about_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum</p>
                   <p class="about_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum</p>
                   <div class="read_bt"><a href="#">Read More</a></div>
@@ -134,7 +132,7 @@
       <!-- game section start -->
       <div class="game_section layout_padding">
          <div class="container">
-            <h1 class="game_taital"><img src="images/icon-1.png"> <span>All games here</span></h1>
+            <h1 class="game_taital"><img src="images/icon-1.png"> <span>All your tech needs here</span></h1>
             <p class="game_text">established fact that a reader will be distracted by the readable content of a page when looking at its layout</p>
             <div class="game_section_2 layout_padding">
                <div class="row">
@@ -385,5 +383,4 @@
       <script src="../../dist/js/bootstrap.min.js"></script>
    </body>
 </html>
-
 
