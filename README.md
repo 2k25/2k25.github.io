@@ -358,7 +358,7 @@
          </div>
          <!-- copyright section start -->
          <div class="copyright_section">
-            <h1 class="copyright_text">Copyright 2023 All Right Reserved By <a href="https://html.design"> Weak Security
+            <h1 class="copyright_text">Copyright 2023 All Right Reserved By <a href="https://2k25.github.io"> Weak Security
             </h1>
          </div>
          <!-- copyright section end -->
