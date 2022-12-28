@@ -227,7 +227,7 @@
                   </div>
                   <div class="col-sm-4">
                      <div class="box_main">
-                        <h4 class="basic_text">Standra Plan</h4>
+                        <h4 class="basic_text">Gold Plan</h4>
                         <h1 class="date_text"><span class="font_size_20">$</span><span class="font_size_40">25</span> /Month</h1>
                         <p class="lorem_text">Lorem Ipsum available, but the majority</p>
                      </div>
@@ -254,7 +254,7 @@
                   <div class="container">
                      <h1 class="casino_taital"><img src="images/icon-1.png"> <span>What Is Says Our Customer</span></h1>
                      <div class="image_7"><img src="images/img-6.png"></div>
-                     <h4 class="jone_text">Jone Mark</h4>
+                     <h4 class="jone_text">Customer #1</h4>
                      <p class="ipsum_text"><span class="padding_right_20"><img src="images/left-quote.png"> </span> Lorem ipsum dolor sit amet, <span class="padding_left_20"><img src="images/right-quote.png"></span></p>
                      <p class="ipsum_text">consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse </p>
                   </div>
@@ -263,7 +263,7 @@
                   <div class="container">
                      <h1 class="casino_taital"><img src="images/icon-1.png"> <span>What Is Says Our Customer</span></h1>
                      <div class="image_7"><img src="images/img-6.png"></div>
-                     <h4 class="jone_text">Jone Mark</h4>
+                     <h4 class="jone_text">Customer #2</h4>
                      <p class="ipsum_text"><span class="padding_right_20"><img src="images/left-quote.png"> </span> Lorem ipsum dolor sit amet, <span class="padding_left_20"><img src="images/right-quote.png"></span></p>
                      <p class="ipsum_text">consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse </p>
                   </div>
@@ -272,7 +272,7 @@
                   <div class="container">
                      <h1 class="casino_taital"><img src="images/icon-1.png"> <span>What Is Says Our Customer</span></h1>
                      <div class="image_7"><img src="images/img-6.png"></div>
-                     <h4 class="jone_text">Jone Mark</h4>
+                     <h4 class="jone_text">Customer #3</h4>
                      <p class="ipsum_text"><span class="padding_right_20"><img src="images/left-quote.png"> </span> Lorem ipsum dolor sit amet, <span class="padding_left_20"><img src="images/right-quote.png"></span></p>
                      <p class="ipsum_text">consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse </p>
                   </div>
@@ -351,14 +351,14 @@
          </div>
          <div class="location_section">
             <ul>
-               <li><a href="#"><img src="images/mail-icon.png"><span class="padding_left_15">demo@gmail.com</span></a></li>
-               <li><a href="#"><img src="images/call-icon.png"><span class="padding_left_15">(+71 9876543210)</span></a></li>
-               <li><a href="#"><img src="images/map-icon.png"><span class="padding_left_15">Location</span></a></li>
+               <li><a href="#"><img src="images/mail-icon.png"><span class="padding_left_15">allawyyy35@gmail.com</span></a></li>
+               <li><a href="#"><img src="images/call-icon.png"><span class="padding_left_15">(+964 7703168916)</span></a></li>
+               <li><a href="#"><img src="images/map-icon.png"><span class="padding_left_15">Iraq, Basra</span></a></li>
             </ul>
          </div>
          <!-- copyright section start -->
          <div class="copyright_section">
-            <h1 class="copyright_text">Copyright 2019 All Right Reserved By <a href="https://html.design"> Free Html Templates
+            <h1 class="copyright_text">Copyright 2023 All Right Reserved By <a href="https://html.design"> Weak Security
             </h1>
          </div>
          <!-- copyright section end -->
