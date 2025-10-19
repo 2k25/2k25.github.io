@@ -1,0 +1,62 @@
+{
+  "name": "Your Name",
+  "title": "Full Stack Developer & Designer",
+  "bio": "I build beautiful, functional web applications with modern technologies. Passionate about creating seamless user experiences and scalable solutions.",
+  "email": "your.email@example.com",
+  "github": "https://github.com/yourusername",
+  "linkedin": "https://linkedin.com/in/yourusername",
+  "skills": [
+    "React",
+    "TypeScript",
+    "Node.js",
+    "Python",
+    "PostgreSQL",
+    "Tailwind CSS",
+    "AWS",
+    "Docker",
+    "Git"
+  ],
+  "projects": [
+    {
+      "title": "E-Commerce Platform",
+      "description": "A full-featured online store with payment integration, inventory management, and admin dashboard.",
+      "tags": ["React", "Node.js", "Stripe", "PostgreSQL"],
+      "link": "https://github.com/yourusername/project1"
+    },
+    {
+      "title": "Task Management App",
+      "description": "Real-time collaborative task manager with team features and analytics.",
+      "tags": ["React", "Firebase", "Tailwind CSS"],
+      "link": "https://github.com/yourusername/project2"
+    },
+    {
+      "title": "Portfolio Generator",
+      "description": "Tool for creating beautiful portfolio websites from JSON data.",
+      "tags": ["React", "TypeScript", "Vite"],
+      "link": "https://github.com/yourusername/project3"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tech Company Inc.",
+      "role": "Senior Full Stack Developer",
+      "period": "2022 - Present",
+      "description": "Leading development of scalable web applications and mentoring junior developers. Implemented microservices architecture improving system performance by 40%.",
+      "skills": ["React", "Node.js", "AWS", "Docker", "PostgreSQL"]
+    },
+    {
+      "company": "Startup XYZ",
+      "role": "Full Stack Developer",
+      "period": "2020 - 2022",
+      "description": "Built multiple features from concept to deployment. Collaborated with design team to create intuitive user interfaces.",
+      "skills": ["React", "Python", "MongoDB", "Tailwind CSS"]
+    },
+    {
+      "company": "Digital Agency",
+      "role": "Frontend Developer",
+      "period": "2018 - 2020",
+      "description": "Developed responsive websites for various clients. Focused on performance optimization and accessibility.",
+      "skills": ["HTML", "CSS", "JavaScript", "React", "Vue.js"]
+    }
+  ]
+}
