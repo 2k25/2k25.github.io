@@ -1,0 +1,104 @@
+{
+  "personal": {
+    "name": "Ali Abdulwadood",
+    "title": "Application Engineer",
+    "tagline": "I do software analysis and cybersecurity for fun",
+    "email": "allawyyy35@gmail.com",
+    "location": "Iraq"
+  },
+  "social": {
+    "github": "https://github.com/2k25",
+    "linkedin": "https://www.linkedin.com/in/2k25/",
+    "email": "mailto:allawyyy35@gmail.com"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm an Application Engineer with a passion for software analysis and cybersecurity. With experience in oil field IT infrastructure and software solutions, I bring a unique blend of technical expertise and problem-solving skills to every project.",
+    "highlights": [
+      "Application Engineering & Support",
+      "Software Analysis & Development",
+      "Cybersecurity Enthusiast",
+      "IT Infrastructure Management"
+    ]
+  },
+  "skills": [
+    {
+      "category": "Languages",
+      "items": ["Python", "JavaScript", "TypeScript", "SQL", "Bash"]
+    },
+    {
+      "category": "Frameworks & Tools",
+      "items": ["React", "Node.js", "Docker", "Git", "Linux"]
+    },
+    {
+      "category": "Cybersecurity",
+      "items": ["Network Security", "Penetration Testing", "Security Analysis", "SIEM"]
+    },
+    {
+      "category": "IT Infrastructure",
+      "items": ["Telecom Systems", "Network Administration", "System Administration", "Cloud Services"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "TASAFI",
+      "position": "IT Application Engineer",
+      "type": "Full-time",
+      "duration": "Mar 2024 - Present",
+      "location": "Majnoon Oilfield, Al-Basra Governorate, Iraq",
+      "description": "Managing and supporting enterprise applications in a critical oil field environment. Responsible for application deployment, troubleshooting, and optimization."
+    },
+    {
+      "company": "Uruk Engineering Services Co., Ltd.",
+      "position": "IT Application Engineer",
+      "type": "Full-time",
+      "duration": "Jul 2023 - Feb 2024",
+      "location": "Majnoon Oilfield, Al-Basra Governorate, Iraq",
+      "description": "Provided application engineering support and contributed to IT infrastructure improvements."
+    },
+    {
+      "company": "Uruk Engineering Services Co., Ltd.",
+      "position": "IT Telecom Engineer",
+      "type": "Full-time",
+      "duration": "Apr 2023 - Jul 2023",
+      "location": "Majnoon Oilfield, Al-Basra Governorate, Iraq",
+      "description": "Managed telecommunications systems and network infrastructure in an industrial environment."
+    },
+    {
+      "company": "Morabaa Software Solutions",
+      "position": "IT Support Engineer",
+      "type": "Full-time",
+      "duration": "Mar 2020 - Mar 2023",
+      "location": "Basra, Al-Basra Governorate, Iraq",
+      "description": "Provided comprehensive IT support and software solutions for diverse client needs."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Salama.Taxi",
+      "description": "A modern taxi startup platform designed to revolutionize transportation services with focus on safety and reliability.",
+      "tags": ["Startup", "Transportation", "Mobile App"],
+      "link": "https://www.salama.taxi",
+      "featured": true
+    },
+    {
+      "title": "Project 2",
+      "description": "Brief description of your project. Update this in the config file.",
+      "tags": ["Tag1", "Tag2"],
+      "link": "#",
+      "featured": false
+    },
+    {
+      "title": "Project 3",
+      "description": "Brief description of your project. Update this in the config file.",
+      "tags": ["Tag1", "Tag2"],
+      "link": "#",
+      "featured": false
+    }
+  ],
+  "emailjs": {
+    "serviceId": "YOUR_SERVICE_ID",
+    "templateId": "YOUR_TEMPLATE_ID",
+    "publicKey": "YOUR_PUBLIC_KEY"
+  }
+}
