@@ -2,7 +2,7 @@
   "personal": {
     "name": "Ali Abdulwadood",
     "title": "Application Engineer",
-    "tagline": "I do software analysis and cybersecurity for fun",
+    "tagline": "I do software engineering and cybersecurity for fun",
     "email": "allawyyy35@gmail.com",
     "location": "Iraq"
   },
@@ -76,22 +76,22 @@
   "projects": [
     {
       "title": "Salama.Taxi",
-      "description": "A modern taxi startup platform designed to revolutionize transportation services with focus on safety and reliability.",
+      "description": "A modern inter-city taxi startup platform designed to revolutionize transportation services with focus on safety and reliability.",
       "tags": ["Startup", "Transportation", "Mobile App"],
       "link": "https://www.salama.taxi",
       "featured": true
     },
     {
-      "title": "Project 2",
+      "title": "QuickSell.IQ",
       "description": "Brief description of your project. Update this in the config file.",
-      "tags": ["Tag1", "Tag2"],
+      "tags": ["Mobile App", "Startup"],
       "link": "#",
       "featured": false
     },
     {
-      "title": "Project 3",
-      "description": "Brief description of your project. Update this in the config file.",
-      "tags": ["Tag1", "Tag2"],
+      "title": "Dunya & Genie AI chatbots",
+      "description": "chatbots for businesses and E-Commmerce.",
+      "tags": ["AI", "Startup"],
       "link": "#",
       "featured": false
     }
