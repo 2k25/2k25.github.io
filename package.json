@@ -1,5 +1,6 @@
 {
   "name": "ali-portfolio",
+  "description": "Personal portfolio for Ali Abdulwadood",
   "private": true,
   "version": "1.0.0",
   "type": "module",
