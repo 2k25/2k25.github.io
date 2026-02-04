@@ -31,6 +31,9 @@
 
   .gradient-text {
     @apply bg-gradient-to-r from-accent to-primary-500 bg-clip-text text-transparent;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+    padding-bottom: 0.1em;
   }
 
   .card {
