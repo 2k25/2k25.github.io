@@ -33,8 +33,8 @@ function App() {
             transition={{ duration: 0.5 }}
             className="text-center"
           >
-            <div className="w-16 h-16 mx-auto mb-4 rounded-2xl bg-gradient-to-r from-accent to-primary-500 flex items-center justify-center">
-              <span className="text-2xl font-bold text-white">A</span>
+            <div className="w-20 h-20 mx-auto mb-4">
+              <img src="/icon.svg" alt="Logo" className="w-full h-full rounded-2xl" />
             </div>
             <motion.div
               initial={{ width: 0 }}

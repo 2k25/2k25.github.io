@@ -46,9 +46,7 @@ export default function Navbar({ config }: NavbarProps) {
             href="#"
             className="flex items-center gap-2 font-bold text-xl"
           >
-            <span className="w-10 h-10 rounded-xl bg-gradient-to-r from-accent to-primary-500 flex items-center justify-center text-white font-bold">
-              A
-            </span>
+            <img src="/icon.svg" alt="Logo" className="w-10 h-10 rounded-xl" />
             <span className="hidden sm:block text-gray-900">
               {config.personal.name.split(' ')[0]}
             </span>
