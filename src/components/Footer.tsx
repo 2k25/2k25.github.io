@@ -26,9 +26,7 @@ export default function Footer({ config }: FooterProps) {
       <div className="max-w-6xl mx-auto px-6">
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="flex items-center gap-4">
-            <div className="w-10 h-10 rounded-xl bg-gradient-to-r from-accent to-primary-500 flex items-center justify-center text-white font-bold">
-              A
-            </div>
+            <img src="/icon.svg" alt="Logo" className="w-10 h-10 rounded-xl" />
             <div>
               <p className="font-semibold text-gray-900">{config.personal.name}</p>
               <p className="text-sm text-gray-500">Application Engineer</p>
